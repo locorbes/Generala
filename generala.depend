@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1499017258 source:c:\users\carlos\google drive\utn\proyectos\generala\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"includes/generala.h"
+	"includes/basicos.h"
+
+1499031053 c:\users\carlos\google drive\utn\proyectos\generala\generala\includes\generala.h
+	<string.h>
+	<conio.h>
+	"basicos.h"
+
+1498888835 c:\users\carlos\google drive\utn\proyectos\generala\generala\includes\basicos.h
+
+1498889269 source:c:\users\mini\google drive\utn\proyectos\generala\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"includes/generala.h"
+	"includes/basicos.h"
+
+1498914577 c:\users\mini\google drive\utn\proyectos\generala\generala\includes\generala.h
+	<string.h>
+	<conio.h>
+	"basicos.h"
+
+1498888835 c:\users\mini\google drive\utn\proyectos\generala\generala\includes\basicos.h
+
+1499043102 source:c:\users\carlos\desktop\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"includes/generala.h"
+	"includes/basicos.h"
+
+1499041389 c:\users\carlos\desktop\generala\includes\generala.h
+	<string.h>
+	<conio.h>
+	"basicos.h"
+
+1498888835 c:\users\carlos\desktop\generala\includes\basicos.h
+
+1499043102 source:c:\users\carlos\google drive\utn\tsp\primer cuatrimestre\laboratorio de computación i\tp - segundo parcial\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"includes/generala.h"
+	"includes/basicos.h"
+
+1499638098 c:\users\carlos\google drive\utn\tsp\primer cuatrimestre\laboratorio de computación i\tp - segundo parcial\generala\includes\generala.h
+	<string.h>
+	<conio.h>
+	"basicos.h"
+
+1498888835 c:\users\carlos\google drive\utn\tsp\primer cuatrimestre\laboratorio de computación i\tp - segundo parcial\generala\includes\basicos.h
+
